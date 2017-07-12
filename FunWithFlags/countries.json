@@ -1,0 +1,42 @@
+{
+    "questions": [
+                  {
+                  "countryShort": "ee",
+                  "countryLong": "Estonia"
+                  },{
+                  "countryShort": "za",
+                  "countryLong": "South Africa"
+                  },{
+                  "countryShort": "hu",
+                  "countryLong": "Hungary"
+                  },{
+                  "countryShort": "is",
+                  "countryLong": "Iceland"
+                  },{
+                  "countryShort": "pg",
+                  "countryLong": "Papua New Guinea"
+                  },{
+                  "countryShort": "nr",
+                  "countryLong": "Nauru"
+                  },{
+                  "countryShort": "bb",
+                  "countryLong": "Barbados"
+                  },{
+                  "countryShort": "pa",
+                  "countryLong": "Panama"
+                  },{
+                  "countryShort": "va",
+                  "countryLong": "Vatican City"
+                  },{
+                  "countryShort": "to",
+                  "countryLong": "Tonga"
+                  },{
+                  "countryShort": "sm",
+                  "countryLong": "San Marino"
+                  },{
+                  "countryShort": "lk",
+                  "countryLong": "Sri Lanka"
+                  }
+                  ]
+    
+}
